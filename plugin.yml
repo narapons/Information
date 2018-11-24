@@ -1,0 +1,20 @@
+---
+name: Information
+main: Main\main
+version: 1.2.0
+api:
+- 3.3.2
+- 4.0.0
+author: narapon
+load: STARTUP
+commands:
+  myxyz:
+    usage: /myxyz
+    description: 自分のいる座標をチャットで知らせる
+  myworld:
+    usage: /myworld
+    description: 自分のいるワールドをチャットで知らせる
+  info:
+    usage: /info
+    description: 自分のいるワールドと座標をチャットで知らせる
+...
