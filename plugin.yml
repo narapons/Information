@@ -2,9 +2,7 @@
 name: Information
 main: Main\main
 version: 1.2.0
-api:
-- 3.3.2
-- 4.0.0
+api: 3.4.0
 author: narapon
 load: STARTUP
 commands:
